@@ -87,3 +87,5 @@ IT support and help desk professional with hands-on experience troubleshooting s
 Experienced in documenting solutions, simulating real-world ticket workflows, and supporting users across Windows-based systems.  
 
 Seeking an IT support or help desk role where I can provide reliable technical assistance, contribute to team operations, and continue developing toward a cybersecurity-focused career.
+
+Email: j.tyler.pro@gmail.com
