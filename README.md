@@ -88,4 +88,4 @@ Experienced in documenting solutions, simulating real-world ticket workflows, an
 
 Seeking an IT support or help desk role where I can provide reliable technical assistance, contribute to team operations, and continue developing toward a cybersecurity-focused career.
 
-Email: j.tyler.pro@gmail.com
+Email: **j.tyler.pro@gmail.com**
