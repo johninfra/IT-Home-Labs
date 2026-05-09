@@ -40,7 +40,7 @@ Simulated a support request submitted by user John Test who was unable to access
 Opened Active Directory Users and Computers on the domain controller and located the John Test user account within the domain environment.
 
 #### Password Reset
-![Password Reset](screenshots/lab9-pasword-reset.png)
+![Password Reset](screenshots/johnt-password-reset.png)
 
 ---
 
@@ -48,7 +48,7 @@ Opened Active Directory Users and Computers on the domain controller and located
 Performed a password reset for the John Test account and configured the account to regain access successfully.
 
 #### Password Reset Completed
-![Password Reset Completed](screenshots/lab9-pasword-reset.png)
+![Password Reset](screenshots/johnt-password-reset.png)
 
 ---
 
