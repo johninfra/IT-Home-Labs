@@ -95,38 +95,29 @@ git push origin main
 
 ### SecureDesk Landing Page
 
-
 ![Landing Page](screenshots/securedesk-landing-page.png)
 
 ---
 
 ### Help Desk Ticket Dashboard
-Screenshot File Name:
-`ticket-dashboard.png`
 
 ![Ticket Dashboard](screenshots/ticket-dashboard.png)
 
 ---
 
 ### Ticket Submission Form
-Screenshot File Name:
-`ticket-submission-form.png`
 
 ![Ticket Submission Form](screenshots/ticket-submission-form.png)
 
 ---
 
 ### Active Directory Management Panel
-Screenshot File Name:
-`active-directory-panel.png`
 
 ![Active Directory Panel](screenshots/active-directory-panel.png)
 
 ---
 
 ### Cybersecurity Monitoring Dashboard
-Screenshot File Name:
-`cybersecurity-monitoring-dashboard.png`
 
 ![Cybersecurity Dashboard](screenshots/cybersecurity-monitoring-dashboard.png)
 
