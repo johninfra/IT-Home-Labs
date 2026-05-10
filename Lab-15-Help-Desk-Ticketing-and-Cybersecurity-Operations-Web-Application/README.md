@@ -95,7 +95,6 @@ git push origin main
 
 ### SecureDesk Landing Page
 
-`securedesk-landing-page.png`
 
 ![Landing Page](screenshots/securedesk-landing-page.png)
 
