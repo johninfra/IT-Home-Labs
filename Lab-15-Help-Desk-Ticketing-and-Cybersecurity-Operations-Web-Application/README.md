@@ -73,7 +73,6 @@ Version Control Connectivity: GitHub Repository Integration
 
 
 
-```
 
 ---
 
