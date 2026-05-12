@@ -71,22 +71,7 @@ Version Control Connectivity: GitHub Repository Integration
 12. Tested application responsiveness and functionality
 13. Uploaded the completed project to GitHub
 
----
 
-## Commands Used
-
-```bash
-npm install
-
-npm run dev
-
-git init
-
-git add .
-
-git commit -m "Initial SecureDesk project commit"
-
-git push origin main
 ```
 
 ---
