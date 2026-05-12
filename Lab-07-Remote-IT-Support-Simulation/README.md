@@ -77,7 +77,7 @@ Ping test succeeded after fix.
 - RDP enables full remote system control
 - Network adapter issues can cause connectivity loss
 - Ping and ipconfig are essential troubleshooting tools
-- Remote support tools like AnyDesk are widely used in IT environments
+- Remote support tools like RDP and AnyDesk are widely used in IT environments
 
 ---
 
