@@ -24,6 +24,11 @@ Lab 13 - Help Desk Ticket Workflow Simulation
 ---
 
 ## Labs Included  
+Lab 15 - Help Desk Ticketing and Cybersecurity Operations Web Application 
+- Simulated help desk ticketing and cybersecurity documentation workflows by creating structured incident records, documenting technical findings, tracking resolution steps, and practicing clear escalation procedures.
+
+Lab 14 - Active Directory Password Reset and Ticket Resolution 
+- Performed Active Directory password resets, account unlocks, authentication troubleshooting, and user access verification to simulate common Tier 1 help desk support requests.
 
 Lab 13 - Help Desk Ticket Workflow Simulation  
 - Simulated real-world help desk operations by managing multiple support tickets from intake to resolution, including Active Directory tasks, network troubleshooting, permissions, printing, and escalation procedures.
