@@ -18,8 +18,8 @@ This repository showcases hands-on IT support and cybersecurity labs designed to
 
 ## Featured Lab  
 
-Lab 13 - Help Desk Ticket Workflow Simulation  
-- Simulated real-world help desk operations by managing multiple support tickets from intake to resolution. Troubleshot issues involving Active Directory, network connectivity, permissions, and printing, while documenting workflows, prioritizing requests, and performing proper escalation procedures.
+Lab 15 - Help Desk Ticketing and Cybersecurity Operations Web Application 
+- Simulated help desk ticketing and cybersecurity documentation workflows by creating structured incident records, documenting technical findings, tracking resolution steps, and practicing clear escalation procedures.
 
 ---
 
