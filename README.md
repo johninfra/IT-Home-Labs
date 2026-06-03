@@ -1,18 +1,16 @@
 # IT Support and Cybersecurity Lab Portfolio  
 
 ## About This Repository  
-This repository showcases hands-on IT support and cybersecurity labs designed to simulate real-world help desk and system administration environments. Each lab demonstrates practical experience in troubleshooting, user management, networking, and system configuration using virtual machines and enterprise-style workflows.
+This repository contains a structured collection of hands-on technical labs built to simulate enterprise-grade IT Support and Cybersecurity environments. Utilizing virtualized environments (Hyper-V/VirtualBox), cloud instances, and industry-standard tools, these projects demonstrate end-to-end implementation, configuration, and troubleshooting workflows.
 
 ---
 
-## Core Competencies  
-
-- IT Support and Help Desk Troubleshooting  
-- Active Directory User and Access Management  
-- Network Diagnostics and Connectivity Issues  
-- Ticket Workflow Documentation and Resolution  
-- Windows and Linux System Administration  
-- Basic Security Monitoring and Log Analysis  
+## Technical Skills & Core Competencies
+*   **Identity & Access Management (IAM):** Active Directory provisioning, Group Policy Object (GPO) configuration, and user/group permission auditing.
+*   **Infrastructure & Systems Administration:** Cross-platform deployment and configuration across Windows Server and Linux (Ubuntu/Debian) systems.
+*   **Network Diagnostics & Security:** Traffic analysis, port scanning, network protocol verification, and connectivity troubleshooting.
+*   **Incident Response & Log Analysis:** Basic security telemetry monitoring, event log parsing, and vulnerability identification.
+*   **ITSM & Operational Workflows:** Help Desk ticketing simulations, technical documentation formatting, and root-cause analysis.
 
 ---
 
