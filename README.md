@@ -16,14 +16,29 @@ This repository showcases hands-on IT support and cybersecurity labs designed to
 
 ---
 
-## Featured Lab  
+## Featured Labs  
 
-Lab 15 - Help Desk Ticketing and Cybersecurity Operations Web Application 
-- Simulated help desk ticketing and cybersecurity documentation workflows by creating structured incident records, documenting technical findings, tracking resolution steps, and practicing clear escalation procedures.
+Lab 16 - Windows Host Port Scanning with Metasploit
+
+- Performed host discovery and TCP port enumeration against a Windows 11 system using Metasploit auxiliary scanning modules.
+- Identified active network services, validated host accessibility, and documented open ports to simulate a real-world vulnerability assessment workflow.
+- Practiced reconnaissance techniques used during security assessments and penetration testing engagements.
+
+Lab 17 - SMB Fingerprinting and Security Enumeration
+
+- Conducted SMB fingerprinting and security enumeration using Metasploit to identify operating system details, SMB protocol versions, hostname information, and security configurations.
+- Analyzed SMB service characteristics, encryption capabilities, and protocol settings to evaluate the security posture of a Windows 11 host.
+- Documented findings and interpreted enumeration results to simulate cybersecurity reconnaissance and vulnerability assessment procedures.
 
 ---
 
 ## Labs Included  
+Lab 17 - SMB Fingerprinting and Security Enumeration
+- Conducted SMB fingerprinting and security enumeration using Metasploit to identify operating system details, SMB protocol versions, hostname information, and security configurations.
+
+Lab 16 - Windows Host Port Scanning with Metasploit
+- Performed host discovery and TCP port enumeration against a Windows host using Metasploit auxiliary scanning modules to identify active services and assess network exposure.
+
 Lab 15 - Help Desk Ticketing and Cybersecurity Operations Web Application 
 - Simulated help desk ticketing and cybersecurity documentation workflows by creating structured incident records, documenting technical findings, tracking resolution steps, and practicing clear escalation procedures.
 
