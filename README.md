@@ -104,6 +104,4 @@ IT support and help desk professional with hands-on experience troubleshooting h
 
 Experienced in documenting technical solutions, simulating real-world ticket workflows, and providing user-focused support in fast-paced and security-conscious environments. Proficient with Windows 10/11, macOS, Microsoft 365, networking fundamentals, VMware, and basic cybersecurity tools including Wireshark, Nmap, and Splunk.
 
-Seeking an IT support or help desk role where I can deliver reliable technical support, strengthen operational efficiency, and continue progressing toward a cybersecurity-focused career.
-
 Email: j.tyler.pro@gmail.com
