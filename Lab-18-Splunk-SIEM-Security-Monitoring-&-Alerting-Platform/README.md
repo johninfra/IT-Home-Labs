@@ -10,7 +10,7 @@ This project simulates Security Operations Center (SOC) analyst responsibilities
 
 ## Security Dashboard
 
-![SOC Security Dashboard](images/security-dashboard.png)
+![SOC Security Dashboard](security-dashboard.png)
 
 The dashboard provides visibility into:
 
