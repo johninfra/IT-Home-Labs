@@ -10,7 +10,7 @@ This project simulates Security Operations Center (SOC) analyst responsibilities
 
 ## Security Dashboard
 
-![SOC Security Dashboard](security-dashboard.png)
+![SOC Security Dashboard](screenshots/security-dashboard.png)
 
 The dashboard provides visibility into:
 
@@ -106,7 +106,7 @@ index=* sourcetype=journald "authentication failure"
 
 ### Authentication Failure Detection
 
-![Authentication Failure Detection](images/authentication-failure.png)
+![Authentication Failure Detection](screenshots/authentication-failure.png)
 
 ### Findings
 
@@ -160,7 +160,7 @@ Highlights source systems responsible for suspicious activity.
 
 ### Dashboard Screenshot
 
-![SOC Dashboard](images/security-dashboard.png)
+![SOC Security Dashboard](screenshots/security-dashboard.png)
 
 ---
 
@@ -213,7 +213,7 @@ A real time Splunk alert was configured to detect Nmap reconnaissance activity.
 
 ### Triggered Alerts
 
-![Nmap Detection Alerts](images/nmap-alerts.png)
+![Nmap Detection Alerts](screenshots/nmap-alerts.png)
 
 ### Outcome
 
