@@ -31,6 +31,10 @@ Lab 17 - SMB Fingerprinting and Security Enumeration
 ---
 
 ## Labs Included  
+Lab 18 - Splunk SIEM Security Monitoring & Alerting Platform
+
+- Built a fully functional Splunk Enterprise SIEM environment on Kali Linux, configured log ingestion, analyzed authentication events using SPL, created SOC dashboards, and engineered real time alerts to detect simulated reconnaissance activity.
+
 Lab 17 - SMB Fingerprinting and Security Enumeration
 - Conducted SMB fingerprinting and security enumeration using Metasploit to identify operating system details, SMB protocol versions, hostname information, and security configurations.
 
