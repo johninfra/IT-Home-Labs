@@ -7,7 +7,41 @@ This repository contains a structured collection of hands-on technical labs buil
 
 ## Core Competencies
 
-Technical Support, IT Support, Help Desk Support, Active Directory Administration, Account Provisioning, Password Resets, Account Unlocks, Windows Administration, Windows Troubleshooting, Microsoft 365 Support, Network Troubleshooting, DNS, DHCP, VPN Support, Remote Support, Ticket Management, Incident Management, Service Desk Operations, Splunk Enterprise, SIEM Monitoring, Security Event Analysis, Threat Detection, Threat Hunting, Log Analysis, Incident Investigation, Security Monitoring, Sysmon, PowerShell, VMware, Virtualization, Windows Server Administration, Endpoint Support, Hardware Troubleshooting, Software Deployment, Asset Management, Documentation, Root Cause Analysis, Customer Service
+- Technical Support
+- IT Support
+- Help Desk Support
+- Active Directory Administration
+- Account Provisioning
+- Password Resets & Account Unlocks
+- Windows Administration
+- Windows Troubleshooting
+- Microsoft 365 Support
+- Network Troubleshooting
+- DNS & DHCP
+- VPN Support
+- Remote Support
+- Ticket Management
+- Incident Management
+- Service Desk Operations
+- Splunk Enterprise
+- SIEM Monitoring
+- Security Event Analysis
+- Threat Detection
+- Threat Hunting
+- Log Analysis
+- Incident Investigation
+- Security Monitoring
+- Sysmon
+- PowerShell
+- VMware & Virtualization
+- Windows Server Administration
+- Endpoint Support
+- Hardware Troubleshooting
+- Software Deployment
+- Asset Management
+- Documentation
+- Root Cause Analysis
+- Customer Service
 
 ---
 
