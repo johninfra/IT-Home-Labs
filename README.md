@@ -5,12 +5,9 @@ This repository contains a structured collection of hands-on technical labs buil
 
 ---
 
-## Technical Skills & Core Competencies
-*   **Identity & Access Management (IAM):** Active Directory provisioning, Group Policy Object (GPO) configuration, and user/group permission auditing.
-*   **Infrastructure & Systems Administration:** Cross-platform deployment and configuration across Windows Server and Linux (Ubuntu/Debian) systems.
-*   **Network Diagnostics & Security:** Traffic analysis, port scanning, network protocol verification, and connectivity troubleshooting.
-*   **Incident Response & Log Analysis:** Basic security telemetry monitoring, event log parsing, and vulnerability identification.
-*   **ITSM & Operational Workflows:** Help Desk ticketing simulations, technical documentation formatting, and root-cause analysis.
+## Core Competencies
+
+Technical Support, IT Support, Help Desk Support, Active Directory Administration, Account Provisioning, Password Resets, Account Unlocks, Windows Administration, Windows Troubleshooting, Microsoft 365 Support, Network Troubleshooting, DNS, DHCP, VPN Support, Remote Support, Ticket Management, Incident Management, Service Desk Operations, Splunk Enterprise, SIEM Monitoring, Security Event Analysis, Threat Detection, Threat Hunting, Log Analysis, Incident Investigation, Security Monitoring, Sysmon, PowerShell, VMware, Virtualization, Windows Server Administration, Endpoint Support, Hardware Troubleshooting, Software Deployment, Asset Management, Documentation, Root Cause Analysis, Customer Service
 
 ---
 
