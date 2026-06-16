@@ -160,7 +160,7 @@ This validates successful log ingestion from multiple Windows logging sources.
 
 # Dashboard Screenshot
 
-![Splunk SOC Dashboard](screenshots/updated-splunk-soc-dashboard.png)
+![Splunk SOC Dashboard](screenshots/updated-splunk-soc-dashboard1.png)
 
 ---
 
