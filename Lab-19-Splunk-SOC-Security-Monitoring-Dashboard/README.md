@@ -52,7 +52,7 @@ The completed dashboard analyzed over 28,000 security events and provided real-t
 
 The completed SOC dashboard provides centralized visibility into Windows security telemetry and Sysmon activity.
 
-![Splunk SOC Dashboard](screenshots/updated-splunk-soc-dashboard10.png)
+![Splunk SOC Dashboard](screenshots/final-soc-dash.png)
 
 ## Executive Metrics
 
@@ -162,7 +162,7 @@ This validates successful log ingestion from multiple Windows logging sources.
 
 # Dashboard Screenshot
 
-![Splunk SOC Dashboard](screenshots/updated-splunk-soc-dashboard10.png)
+![Splunk SOC Dashboard](screenshots/final-soc-dash.png)
 
 ---
 
