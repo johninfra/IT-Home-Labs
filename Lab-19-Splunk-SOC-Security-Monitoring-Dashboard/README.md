@@ -220,7 +220,7 @@ index=* EventCode=4625
 
 - Successfully deployed Splunk Enterprise SIEM
 - Ingested Windows Security and Sysmon logs
-- Collected and analyzed over 28,000 security events
+- Collected and analyzed over 69,000 security events
 - Built a multi-panel SOC monitoring dashboard
 - Implemented authentication monitoring workflows
 - Created brute force detection use cases
