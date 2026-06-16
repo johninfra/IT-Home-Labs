@@ -106,7 +106,7 @@ index=* sourcetype=journald "authentication failure"
 
 ### Authentication Failure Detection
 
-![Authentication Failure Detection](screenshots/splunk-authentication-failure.png)
+![Authentication Failure Detection](screenshots/authentication-failure.png)
 
 ### Findings
 
