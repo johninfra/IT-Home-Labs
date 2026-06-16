@@ -58,12 +58,12 @@ The completed SOC dashboard provides centralized visibility into Windows securit
 
 The dashboard includes key security metrics:
 
-- Total Events: 28,237
-- Monitored Hosts: 115
-- PowerShell Executions: 321
-- CMD Executions: 2,237
-- Failed Logins: 10
-- Total Process Creations: 17,791
+- Total Events: 69,631
+- Monitored Hosts: 405
+- PowerShell Executions: 1,005
+- CMD Executions: 6,320
+- Failed Logins: 16
+- Total Process Creations: 51,974
 
 ---
 
