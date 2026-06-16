@@ -1,4 +1,4 @@
-# Lab 18: Splunk SIEM Security Monitoring & Alerting Platform
+# Lab 18: Splunk SIEM Security Monitoring and Alerting Platform
 
 ## Overview
 
