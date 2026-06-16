@@ -31,6 +31,10 @@ Lab 17 - SMB Fingerprinting and Security Enumeration
 ---
 
 ## Labs Included  
+Lab 19 - Splunk SOC Security Monitoring Dashboard
+
+- Developed a comprehensive SOC style monitoring dashboard in Splunk Enterprise using Windows Security and Sysmon logs. Created visualizations for event volume, authentication activity, process creation, PowerShell execution, command line activity, failed logins, security event analysis, and brute force detection to simulate real world security operations center monitoring and threat hunting workflows.
+
 Lab 18 - Splunk SIEM Security Monitoring & Alerting Platform
 
 - Built a fully functional Splunk Enterprise SIEM environment on Kali Linux, configured log ingestion, analyzed authentication events using SPL, created SOC dashboards, and engineered real time alerts to detect simulated reconnaissance activity.
