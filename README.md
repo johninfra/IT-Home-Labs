@@ -62,6 +62,10 @@ Lab 17 - SMB Fingerprinting and Security Enumeration
 ---
 
 ## Labs Included  
+## Lab 20 - Configuring and Troubleshooting Remote Desktop Protocol (RDP)
+
+- Configured Windows Defender Firewall rules, enabled Remote Desktop on a Windows Server 2022 Domain Controller, troubleshot failed RDP connectivity, and successfully established a remote connection from a Windows host machine.
+
 Lab 19 - Splunk SOC Security Monitoring Dashboard
 
 - Developed a comprehensive SOC style monitoring dashboard in Splunk Enterprise using Windows Security and Sysmon logs. Created visualizations for event volume, authentication activity, process creation, PowerShell execution, command line activity, failed logins, security event analysis, and brute force detection to simulate real world security operations center monitoring and threat hunting workflows.
