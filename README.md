@@ -62,7 +62,7 @@ Lab 17 - SMB Fingerprinting and Security Enumeration
 ---
 
 ## Labs Included  
-## Lab 20 - Configuring and Troubleshooting Remote Desktop Protocol (RDP)
+Lab 20 - Configuring and Troubleshooting Remote Desktop Protocol (RDP)
 
 - Configured Windows Defender Firewall rules, enabled Remote Desktop on a Windows Server 2022 Domain Controller, troubleshot failed RDP connectivity, and successfully established a remote connection from a Windows host machine.
 
