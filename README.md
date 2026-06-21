@@ -62,6 +62,10 @@ Lab 17 - SMB Fingerprinting and Security Enumeration
 ---
 
 ## Labs Included  
+Lab 21 - PowerShell Windows Health Check Automation
+
+- Designed and developed a PowerShell-based IT operations automation tool that performs automated workstation health assessments by gathering system, performance, network, and security information. Leveraged CIM/WMI queries, object manipulation, and report generation to collect CPU, memory, disk, uptime, network, and Microsoft Defender data, exporting results to timestamped reports for standardized troubleshooting and operational visibility.
+
 Lab 20 - Configuring and Troubleshooting Remote Desktop Protocol (RDP)
 
 - Configured Windows Defender Firewall rules, enabled Remote Desktop on a Windows Server 2022 Domain Controller, troubleshot failed RDP connectivity, and successfully established a remote connection from a Windows host machine.
