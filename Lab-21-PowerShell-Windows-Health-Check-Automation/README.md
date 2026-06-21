@@ -188,7 +188,7 @@ PowerShell-Windows-Health-Check/
 
 **John Tyler**
 
-IT Support Technician | Systems Administration Enthusiast | Cybersecurity & Cloud Computing Student
+IT Support Technician | Systems Administration | Cybersecurity & Cloud Computing Student
 
 GitHub: https://github.com/johninfra
 
