@@ -1,0 +1,14 @@
+========================================
+        WINDOWS HEALTH CHECK REPORT
+========================================
+Report Time       : 2026-06-20 22:08:41
+Computer Name     : LAB-CLIENT01
+Current User      : DOMAIN\User
+Uptime            : 0 day(s), 9 hour(s), 34 minute(s)
+CPU Usage         : 68.0%
+RAM Usage         : 13.18 GB used / 15.72 GB total (83.9%)
+Disk Space (C:) : 180.44 GB free / 475.73 GB total (37.9% free)
+IP Address(es)    : 192.168.x.x, 192.168.x.x, 192.168.x.x
+Windows Version   : Microsoft Windows 11 Home (Version 10.0.26200, Build 26200)
+Windows Defender  : Running
+========================================
