@@ -62,6 +62,10 @@ Lab 17 - SMB Fingerprinting and Security Enumeration
 ---
 
 ## Labs Included  
+Lab 22 - PowerShell Vulnerability Management and Security Audit Framework
+
+- Built an enterprise-style PowerShell vulnerability management and endpoint security auditing framework that automates the collection of Windows system inventory, installed software, running services, local administrator accounts, Windows Defender configuration, firewall rules, network exposure, and security controls. Generated professional HTML and JSON reports to provide technical and executive-level visibility while simulating real-world vulnerability management, security compliance, and IT operations processes.
+
 Lab 21 - PowerShell Windows Health Check Automation
 
 - Designed and developed a PowerShell-based IT operations automation tool that performs automated workstation health assessments by gathering system, performance, network, and security information. Leveraged CIM/WMI queries, object manipulation, and report generation to collect CPU, memory, disk, uptime, network, and Microsoft Defender data, exporting results to timestamped reports for standardized troubleshooting and operational visibility.
