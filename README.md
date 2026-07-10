@@ -1,67 +1,99 @@
-# IT Support and Cybersecurity Lab Portfolio  
+# IT Support and Cybersecurity Lab Portfolio
 
-## About This Repository  
-This repository contains a structured collection of hands-on technical labs built to simulate enterprise-grade IT Support and Cybersecurity environments. Utilizing virtualized environments (Hyper-V/VirtualBox), cloud instances, and industry-standard tools, these projects demonstrate end-to-end implementation, configuration, and troubleshooting workflows.
+## About This Repository
+
+This repository contains **20+ enterprise-focused IT infrastructure, systems administration, Identity & Access Management (IAM), and cybersecurity labs** designed to simulate real-world enterprise environments.
+
+Using Windows Server, Microsoft Entra ID, Active Directory, VMware, Microsoft 365, Splunk Enterprise, PowerShell, and industry-standard administrative tools, these projects demonstrate practical experience deploying, configuring, securing, monitoring, and troubleshooting enterprise IT environments.
+
+Each lab includes detailed documentation, screenshots, implementation steps, and enterprise-focused explanations that mirror real operational workflows.
 
 ---
 
 ## Core Competencies
 
-- Technical Support
-- IT Support
-- Help Desk Support
-- Active Directory Administration
-- Account Provisioning
+### Identity & Access Management (IAM)
+- Microsoft Entra ID (Azure AD)
+- Active Directory
+- User Provisioning
+- Identity Lifecycle Management
+- Security Groups
+- Role-Based Access Control (RBAC)
+- Least Privilege Administration
 - Password Resets & Account Unlocks
-- Windows Administration
-- Windows Troubleshooting
-- Microsoft 365 Support
-- Network Troubleshooting
-- DNS & DHCP
-- VPN Support
+- Microsoft 365 Administration
+
+### Systems Administration
+- Windows 10/11
+- Windows Server 2022
+- Group Policy (GPO)
+- PowerShell Automation
+- Remote Desktop (RDP)
 - Remote Support
-- Ticket Management
-- Incident Management
-- Service Desk Operations
-- Splunk Enterprise
-- SIEM Monitoring
-- Security Event Analysis
-- Threat Detection
-- Threat Hunting
-- Log Analysis
-- Incident Investigation
-- Security Monitoring
-- Sysmon
-- PowerShell
-- VMware & Virtualization
-- Windows Server Administration
-- Endpoint Support
-- Hardware Troubleshooting
+- Endpoint Administration
 - Software Deployment
 - Asset Management
-- Documentation
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- VPN
+- SMB
+- Network Troubleshooting
+- Wireshark
+- Nmap
+
+### Security Operations
+- Splunk Enterprise
+- SIEM Monitoring
+- Sysmon
+- Windows Event Logs
+- Log Analysis
+- Incident Investigation
+- Threat Detection
+- Vulnerability Assessment
+- Security Monitoring
+
+### IT Operations
+- Technical Support
+- Help Desk Support
+- Service Desk Operations
+- ITSM
+- Ticket Management
+- Incident Management
 - Root Cause Analysis
-- Customer Service
+- Enterprise Documentation
+
+### Virtualization & Cloud
+- VMware Workstation
+- Virtual Machine Administration
+- Hyper-V
+- Microsoft Entra ID
+- Microsoft 365
 
 ---
 
 ## Featured Labs  
 
-Lab 16 - Windows Host Port Scanning with Metasploit
+Lab 23 - Microsoft Entra ID IAM Fundamentals
 
-- Performed host discovery and TCP port enumeration against a Windows 11 system using Metasploit auxiliary scanning modules.
-- Identified active network services, validated host accessibility, and documented open ports to simulate a real-world vulnerability assessment workflow.
-- Practiced reconnaissance techniques used during security assessments and penetration testing engagements.
+- Designed and deployed a simulated enterprise Microsoft Entra ID tenant to demonstrate modern Identity & Access Management (IAM) practices.
+- Provisioned 10 cloud user accounts and organized them into 15 department- and role-based security groups spanning IT, SecOps, Finance, HR, Sales, Engineering, and Remote Access.
+- Implemented Role-Based Access Control (RBAC), administrative ownership, and least-privilege access principles to simulate enterprise identity administration.
 
-Lab 17 - SMB Fingerprinting and Security Enumeration
+Lab 22 - PowerShell Vulnerability Management and Security Audit Framework
 
-- Conducted SMB fingerprinting and security enumeration using Metasploit to identify operating system details, SMB protocol versions, hostname information, and security configurations.
-- Analyzed SMB service characteristics, encryption capabilities, and protocol settings to evaluate the security posture of a Windows 11 host.
-- Documented findings and interpreted enumeration results to simulate cybersecurity reconnaissance and vulnerability assessment procedures.
+- Built an enterprise-style PowerShell vulnerability management and endpoint security auditing framework that automates the collection of Windows system inventory, installed software, running services, local administrator accounts, Windows Defender configuration, firewall rules, network exposure, and security controls.
+- Generated professional HTML and JSON reports to provide both technical and executive-level visibility while simulating real-world vulnerability management, security compliance, and IT operations processes.
 
 ---
 
 ## Labs Included  
+Lab 23 - Microsoft Entra ID IAM Fundamentals
+
+- Designed and deployed a simulated enterprise Microsoft Entra ID tenant by provisioning cloud identities, configuring 15 role-based security groups, and implementing RBAC and least-privilege access to demonstrate modern Identity & Access Management (IAM) and cloud identity administration.
+
 Lab 22 - PowerShell Vulnerability Management and Security Audit Framework
 
 - Built an enterprise-style PowerShell vulnerability management and endpoint security auditing framework that automates the collection of Windows system inventory, installed software, running services, local administrator accounts, Windows Defender configuration, firewall rules, network exposure, and security controls. Generated professional HTML and JSON reports to provide technical and executive-level visibility while simulating real-world vulnerability management, security compliance, and IT operations processes.
