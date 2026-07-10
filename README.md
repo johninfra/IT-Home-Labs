@@ -76,7 +76,7 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 
 ## Featured Labs  
 
-Lab 23 - Microsoft Entra ID IAM Fundamentals
+Lab 23 - Microsoft Entra ID Fundamentals
 
 - Designed and deployed a simulated enterprise Microsoft Entra ID tenant to demonstrate modern Identity & Access Management (IAM) practices.
 - Provisioned 10 cloud user accounts and organized them into 15 department- and role-based security groups spanning IT, SecOps, Finance, HR, Sales, Engineering, and Remote Access.
@@ -90,7 +90,7 @@ Lab 22 - PowerShell Vulnerability Management and Security Audit Framework
 ---
 
 ## Labs Included  
-Lab 23 - Microsoft Entra ID IAM Fundamentals
+Lab 23 - Microsoft Entra ID Fundamentals
 
 - Designed and deployed a simulated enterprise Microsoft Entra ID tenant by provisioning cloud identities, configuring 15 role-based security groups, and implementing RBAC and least-privilege access to demonstrate modern Identity & Access Management (IAM) and cloud identity administration.
 
