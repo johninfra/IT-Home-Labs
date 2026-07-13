@@ -273,6 +273,18 @@ Security-Awareness-Dashboard-COMPUTERNAME-20260713-053525.html
 ---
 
 # Usage
+## Quick Start from GitHub
+
+Open **PowerShell as Administrator**, then download the script directly from this repository:
+
+```powershell
+Invoke-WebRequest `
+  -Uri "https://raw.githubusercontent.com/johninfra/it-support-and-cybersecurity-labs/main/Lab-24-PowerShell-Security-Awareness-Dashboard/New-SecurityAwarenessDashboard.ps1" `
+  -OutFile ".\New-SecurityAwarenessDashboard.ps1"
+
+Unblock-File ".\New-SecurityAwarenessDashboard.ps1"
+
+.\New-SecurityAwarenessDashboard.ps1 -OpenReport
 
 Run from an elevated PowerShell session:
 
