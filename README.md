@@ -90,6 +90,9 @@ Lab 22 - PowerShell Vulnerability Management and Security Audit Framework
 ---
 
 ## Labs Included  
+Lab 24 - PowerShell Security Awareness Dashboard
+- Developed an enterprise-style PowerShell automation tool that performs 31 read-only Windows endpoint security assessments and generates an interactive HTML dashboard summarizing security posture, prioritized remediation actions, Windows security telemetry, and endpoint hardening recommendations. Leveraged Microsoft Defender, Windows Event Logs, WMI/CIM, the Windows Registry, and HTML/CSS/JavaScript report generation to simulate real-world security auditing, security awareness reporting, and IT operations workflows.
+
 Lab 23 - Microsoft Entra ID Fundamentals
 
 - Designed and deployed a simulated enterprise Microsoft Entra ID tenant by provisioning cloud identities, configuring 15 role-based security groups, and implementing RBAC and least-privilege access to demonstrate modern Identity & Access Management (IAM) and cloud identity administration.
