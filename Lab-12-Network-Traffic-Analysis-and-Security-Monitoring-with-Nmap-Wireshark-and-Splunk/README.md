@@ -64,7 +64,7 @@ Opened the Kali Linux terminal and used ip a to determine the IP address of the 
 
 Performed a ping scan across the subnet to identify active systems on the network.
 
-- nmap -sn 192.168.110.133/24
+- nmap -sn 192.168.110.0/24
 
 ![Nmap Host Discovery](screenshots/lab12-nmap-host-discovery.png)
 
@@ -84,7 +84,7 @@ Executed a targeted Nmap scan against the Windows VM to identify open ports and 
 
 Used ping from Kali Linux to confirm communication with the Windows system.
 
-- ping -c 4 [windows-ip]
+- ping -c 4 192.168.110.128
 
 ![Ping Test](screenshots/lab12-ping-test.png)
 
@@ -137,15 +137,16 @@ Executed search queries in Splunk to view available system logs.
 ---
 
 ## Commands Used
-- ip a
-- nmap -sn 192.168.110.0/24
-- nmap -Pn -sV [windows-ip]
-- ping -c 4 [windows-ip]
-- nmap -Pn [windows-ip]
-- ipconfig
-- icmp
-- tcp
-- index=main
+
+- `ip a`
+- `ipconfig`
+- `nmap -sn 192.168.110.0/24`
+- `nmap -Pn -sV 192.168.110.128`
+- `ping -c 4 192.168.110.128`
+- `nmap -Pn 192.168.110.128`
+- Wireshark display filter: `icmp`
+- Wireshark display filter: `tcp`
+- Splunk search: `index=main`
 
 ---
 
