@@ -107,6 +107,10 @@ Confirmed that the mapped drive appeared under "This PC" and allowed access to f
 - File-access troubleshooting
 - End-user network drive support
 
+## Security Note
+
+The `Everyone` group was used only for initial connectivity testing inside an isolated lab environment. In a production domain, access would be assigned through Active Directory security groups using least privilege. Both share and NTFS permissions would be reviewed because the most restrictive effective permission controls access.
+
 ## Conclusion
 This lab demonstrated how to create and manage shared network resources in a Windows environment. By configuring folder sharing, assigning permissions, and mapping a network drive, full access between systems was successfully established. This exercise reflects common real world IT support tasks involving file servers and user access management.
 
