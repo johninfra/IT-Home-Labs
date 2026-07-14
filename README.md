@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository contains **23+ enterprise-focused IT infrastructure, systems administration, Identity & Access Management (IAM), and cybersecurity labs** designed to simulate real-world enterprise environments.
+This repository contains **24 enterprise-focused IT infrastructure, systems administration, Identity & Access Management (IAM), and cybersecurity labs** designed to simulate real-world enterprise environments.
 
 Using Windows Server, Microsoft Entra ID, Active Directory, VMware, Splunk Enterprise, PowerShell, and industry-standard administrative tools, these projects demonstrate practical experience deploying, configuring, securing, monitoring, and troubleshooting enterprise IT environments.
 
