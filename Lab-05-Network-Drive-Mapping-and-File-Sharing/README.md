@@ -97,11 +97,15 @@ Confirmed that the mapped drive appeared under "This PC" and allowed access to f
 ---
 
 ## Skills Demonstrated
-- User account creation and management  
-- Security group configuration  
-- Group based access control  
-- NTFS permissions management  
-- Shared folder access control  
+
+- Windows network share configuration
+- SMB and UNC path usage
+- Share permission configuration
+- Network drive mapping
+- Client-to-server connectivity validation
+- Shared-resource access testing
+- File-access troubleshooting
+- End-user network drive support
 
 ## Conclusion
 This lab demonstrated how to create and manage shared network resources in a Windows environment. By configuring folder sharing, assigning permissions, and mapping a network drive, full access between systems was successfully established. This exercise reflects common real world IT support tasks involving file servers and user access management.
