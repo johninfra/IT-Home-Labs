@@ -78,7 +78,7 @@ Version Control Connectivity: GitHub Repository Integration
 
 ## Screenshots
 
-### SecureDesk Landing Page
+### LabDesk ITSM Landing Page
 
 ![Landing Page](screenshots/securedesk-landing-page.png)
 
