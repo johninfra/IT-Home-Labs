@@ -121,7 +121,7 @@ Lab 16 - Windows Host Port Scanning with Metasploit
 Lab 15 - Help Desk Ticketing and Cybersecurity Operations Web Application 
 - Simulated help desk ticketing and cybersecurity documentation workflows by creating structured incident records, documenting technical findings, tracking resolution steps, and practicing clear escalation procedures.
 
-## Source Code and Full Project
+## Full Project
 
 The complete application, technical documentation, feature breakdown, ticket workflows, Active Directory integration, asset inventory, and project screenshots are available in the dedicated repository:
 
