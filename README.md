@@ -121,6 +121,23 @@ Lab 16 - Windows Host Port Scanning with Metasploit
 Lab 15 - Help Desk Ticketing and Cybersecurity Operations Web Application 
 - Simulated help desk ticketing and cybersecurity documentation workflows by creating structured incident records, documenting technical findings, tracking resolution steps, and practicing clear escalation procedures.
 
+## Source Code and Full Project
+
+The complete application, technical documentation, feature breakdown, ticket workflows, Active Directory integration, asset inventory, and project screenshots are available in the dedicated repository:
+
+**[View the LabDesk ITSM Homelab Repository](https://github.com/johninfra/labdesk-itsm-homelab)**
+
+The separate repository provides deeper evidence of:
+
+- Ticket queue and ticket-detail workflows
+- User, department, and asset relationships
+- Technician and administrator roles
+- Active Directory user integration
+- Ticket assignment and escalation
+- Resolution notes and activity history
+- Asset inventory management
+- Knowledge-base documentation
+
 Lab 14 - Active Directory Password Reset and Ticket Resolution 
 - Performed Active Directory password resets, account unlocks, authentication troubleshooting, and user access verification to simulate common Tier 1 help desk support requests.
 
