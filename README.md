@@ -4,7 +4,7 @@
 
 This repository contains **23+ enterprise-focused IT infrastructure, systems administration, Identity & Access Management (IAM), and cybersecurity labs** designed to simulate real-world enterprise environments.
 
-Using Windows Server, Microsoft Entra ID, Active Directory, VMware, Microsoft 365, Splunk Enterprise, PowerShell, and industry-standard administrative tools, these projects demonstrate practical experience deploying, configuring, securing, monitoring, and troubleshooting enterprise IT environments.
+Using Windows Server, Microsoft Entra ID, Active Directory, VMware, Splunk Enterprise, PowerShell, and industry-standard administrative tools, these projects demonstrate practical experience deploying, configuring, securing, monitoring, and troubleshooting enterprise IT environments.
 
 Each lab includes detailed documentation, screenshots, implementation steps, and enterprise-focused explanations that mirror real operational workflows.
 
@@ -21,7 +21,6 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 - Role-Based Access Control (RBAC)
 - Least Privilege Administration
 - Password Resets & Account Unlocks
-- Microsoft 365 Administration
 
 ### Systems Administration
 - Windows 10/11
@@ -68,9 +67,7 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 ### Virtualization & Cloud
 - VMware Workstation
 - Virtual Machine Administration
-- Hyper-V
 - Microsoft Entra ID
-- Microsoft 365
 
 ---
 
