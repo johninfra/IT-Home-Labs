@@ -184,7 +184,8 @@ Lab 01 - Network Reconnaissance
 
 ## Tools and Technologies  
 
-- Windows 10 and Windows 11  
+- Windows 10 and Windows 11
+- Microsoft Entra ID
 - Windows Server 2022  
 - Active Directory Domain Controller
 - VMware Workstation  
