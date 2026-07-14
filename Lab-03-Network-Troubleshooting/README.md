@@ -122,11 +122,16 @@ Confirmed:
 ---
 
 ## Skills Demonstrated
-- Active Directory domain configuration  
-- Windows Server administration  
-- Domain controller setup and management  
-- Client to domain joining process  
-- Network authentication concepts  
+
+- Windows network connectivity troubleshooting
+- TCP/IP configuration analysis
+- DHCP lease release and renewal
+- Default gateway identification
+- Winsock and TCP/IP stack resets
+- Connectivity testing using `ping`
+- Network configuration validation using `ipconfig`
+- VMware NAT network troubleshooting
+- Resolution verification and ticket documentation
 
 ## Conclusion
 This lab demonstrated a real world network troubleshooting scenario where connectivity was lost after releasing the IP configuration. By systematically diagnosing the issue, resetting the network stack, identifying the correct gateway, and verifying network settings, full connectivity was restored. This exercise reinforced practical troubleshooting skills used in IT support roles.
