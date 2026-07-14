@@ -25,7 +25,6 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 ### Systems Administration
 - Windows 10/11
 - Windows Server 2022
-- Group Policy (GPO)
 - PowerShell Automation
 - Remote Desktop (RDP)
 - Remote Support
@@ -61,7 +60,6 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 - ITSM
 - Ticket Management
 - Incident Management
-- Root Cause Analysis
 - Enterprise Documentation
 
 ### Virtualization & Cloud
