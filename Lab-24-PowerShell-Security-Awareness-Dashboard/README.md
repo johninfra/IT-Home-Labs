@@ -273,9 +273,10 @@ Security-Awareness-Dashboard-COMPUTERNAME-20260713-053525.html
 ---
 
 # Usage
+
 ## Quick Start from GitHub
 
-Open **PowerShell as Administrator**, then download the script directly from this repository:
+Open PowerShell as Administrator and download the script directly from this repository:
 
 ```powershell
 Invoke-WebRequest `
@@ -285,42 +286,51 @@ Invoke-WebRequest `
 Unblock-File ".\New-SecurityAwarenessDashboard.ps1"
 
 .\New-SecurityAwarenessDashboard.ps1 -OpenReport
+```
 
-Run from an elevated PowerShell session:
+## Run the Script Locally
+
+Run the assessment and save the HTML report in the current directory:
 
 ```powershell
 .\New-SecurityAwarenessDashboard.ps1
 ```
 
-Open automatically:
+Generate the report and open it automatically:
 
 ```powershell
 .\New-SecurityAwarenessDashboard.ps1 -OpenReport
 ```
 
-Specify custom output path:
+## Specify a Custom Output Path
 
 ```powershell
 .\New-SecurityAwarenessDashboard.ps1 `
--OutputPath C:\Reports\SecurityDashboard.html `
--OpenReport
+  -OutputPath "C:\Reports\SecurityDashboard.html" `
+  -OpenReport
 ```
 
-Customize organization name:
+## Customize the Organization Name
 
 ```powershell
 .\New-SecurityAwarenessDashboard.ps1 `
--Organization "Contoso IT"
+  -Organization "Contoso IT"
 ```
 
-Analyze additional Windows event history:
+## Analyze Additional Event History
+
+The supported event-analysis window is between 1 and 30 days:
 
 ```powershell
 .\New-SecurityAwarenessDashboard.ps1 `
--DaysToAnalyze 14
+  -DaysToAnalyze 14
 ```
 
----
+## Recommended Permissions
+
+Run the script from an elevated PowerShell session for the most complete results. Without administrator privileges, some BitLocker, TPM, Microsoft Defender, and Windows Event Log information may be unavailable.
+
+The script is read-only and does not modify Windows security settings, install software, or upload collected information.
 
 # Learning Objectives
 
