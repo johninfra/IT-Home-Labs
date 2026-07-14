@@ -29,10 +29,12 @@ This lab demonstrates a hands on IT and cybersecurity workflow using Kali Linux,
 
 ## Network Configuration
 
-- **Kali Linux IP:** [Enter Kali IP]  
-- **Windows VM IP:** [Enter Windows IP]  
+- **Kali Linux IP:** 192.168.110.133
+- **Windows VM IP:** 192.168.110.128
+- **Network:** 192.168.110.0/24
+- **Virtual Network Type:** VMware NAT
 
-Both virtual machines were connected to the same subnet to allow communication and analysis.
+Both virtual machines were connected to the same virtual subnet, allowing controlled connectivity testing, network scanning, packet capture, and log analysis.
 
 ---
 
