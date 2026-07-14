@@ -69,116 +69,34 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 
 ---
 
-## Featured Labs  
+## Labs Included
 
-Lab 23 - Microsoft Entra ID Fundamentals
-
-- Designed and deployed a simulated enterprise Microsoft Entra ID tenant to demonstrate modern Identity & Access Management (IAM) practices.
-- Provisioned 10 cloud user accounts and organized them into 15 department- and role-based security groups spanning IT, SecOps, Finance, HR, Sales, Engineering, and Remote Access.
-- Implemented Role-Based Access Control (RBAC), administrative ownership, and least-privilege access principles to simulate enterprise identity administration.
-
-Lab 22 - PowerShell Vulnerability Management and Security Audit Framework
-
-- Built an enterprise-style PowerShell vulnerability management and endpoint security auditing framework that automates the collection of Windows system inventory, installed software, running services, local administrator accounts, Windows Defender configuration, firewall rules, network exposure, and security controls.
-- Generated professional HTML and JSON reports to provide both technical and executive-level visibility while simulating real-world vulnerability management, security compliance, and IT operations processes.
-
----
-
-## Labs Included  
-Lab 24 - PowerShell Security Awareness Dashboard
-- Developed an enterprise-style PowerShell automation tool that performs 31 read-only Windows endpoint security assessments and generates an interactive HTML dashboard summarizing security posture, prioritized remediation actions, Windows security telemetry, and endpoint hardening recommendations. Leveraged Microsoft Defender, Windows Event Logs, WMI/CIM, the Windows Registry, and HTML/CSS/JavaScript report generation to simulate real-world security auditing, security awareness reporting, and IT operations workflows.
-
-Lab 23 - Microsoft Entra ID Fundamentals
-
-- Designed and deployed a simulated enterprise Microsoft Entra ID tenant by provisioning cloud identities, configuring 15 role-based security groups, and implementing RBAC and least-privilege access to demonstrate modern Identity & Access Management (IAM) and cloud identity administration.
-
-Lab 22 - PowerShell Vulnerability Management and Security Audit Framework
-
-- Built an enterprise-style PowerShell vulnerability management and endpoint security auditing framework that automates the collection of Windows system inventory, installed software, running services, local administrator accounts, Windows Defender configuration, firewall rules, network exposure, and security controls. Generated professional HTML and JSON reports to provide technical and executive-level visibility while simulating real-world vulnerability management, security compliance, and IT operations processes.
-
-Lab 21 - PowerShell Windows Health Check Automation
-
-- Designed and developed a PowerShell-based IT operations automation tool that performs automated workstation health assessments by gathering system, performance, network, and security information. Leveraged CIM/WMI queries, object manipulation, and report generation to collect CPU, memory, disk, uptime, network, and Microsoft Defender data, exporting results to timestamped reports for standardized troubleshooting and operational visibility.
-
-Lab 20 - Configuring and Troubleshooting Remote Desktop Protocol (RDP)
-
-- Configured Windows Defender Firewall rules, enabled Remote Desktop on a Windows Server 2022 Domain Controller, troubleshot failed RDP connectivity, and successfully established a remote connection from a Windows host machine.
-
-Lab 19 - Splunk SOC Security Monitoring Dashboard
-
-- Developed a comprehensive SOC style monitoring dashboard in Splunk Enterprise using Windows Security and Sysmon logs. Created visualizations for event volume, authentication activity, process creation, PowerShell execution, command line activity, failed logins, security event analysis, and brute force detection to simulate real world security operations center monitoring and threat hunting workflows.
-
-Lab 18 - Splunk SIEM Security Monitoring and Alerting Platform
-
-- Built a fully functional Splunk Enterprise SIEM environment on Kali Linux, configured log ingestion, analyzed authentication events using SPL, created SOC dashboards, and engineered real time alerts to detect simulated reconnaissance activity.
-
-Lab 17 - SMB Fingerprinting and Security Enumeration
-- Conducted SMB fingerprinting and security enumeration using Metasploit to identify operating system details, SMB protocol versions, hostname information, and security configurations.
-
-Lab 16 - Windows Host Port Scanning with Metasploit
-- Performed host discovery and TCP port enumeration against a Windows host using Metasploit auxiliary scanning modules to identify active services and assess network exposure.
-
-Lab 15 - Help Desk Ticketing and Cybersecurity Operations Web Application 
-- Simulated help desk ticketing and cybersecurity documentation workflows by creating structured incident records, documenting technical findings, tracking resolution steps, and practicing clear escalation procedures.
-
-## Full Project
-
-The complete application, technical documentation, feature breakdown, ticket workflows, Active Directory integration, asset inventory, and project screenshots are available in the dedicated repository:
-
-**[View the LabDesk ITSM Homelab Repository](https://github.com/johninfra/labdesk-itsm-homelab)**
-
-The separate repository provides deeper evidence of:
-
-- Ticket queue and ticket-detail workflows
-- User, department, and asset relationships
-- Technician and administrator roles
-- Active Directory user integration
-- Ticket assignment and escalation
-- Resolution notes and activity history
-- Asset inventory management
-- Knowledge-base documentation
-
-Lab 14 - Active Directory Password Reset and Ticket Resolution 
-- Performed Active Directory password resets, account unlocks, authentication troubleshooting, and user access verification to simulate common Tier 1 help desk support requests.
-
-Lab 13 - Help Desk Ticket Workflow Simulation  
-- Simulated real-world help desk operations by managing multiple support tickets from intake to resolution, including Active Directory tasks, network troubleshooting, permissions, printing, and escalation procedures.
-
-Lab 12 - Network Traffic Analysis and Security Monitoring with Nmap, Wireshark, and Splunk  
-- Captured and analyzed network traffic using Wireshark, performed network scanning with Nmap, and monitored logs in Splunk to demonstrate basic security monitoring and threat detection.
-
-Lab 11 - Windows Troubleshooting Ticket  
-- Simulated a real-world support ticket by diagnosing and resolving Windows system issues using structured troubleshooting steps and documentation.
-
-Lab 10 - Software Installation and Printer Troubleshooting  
-- Installed software and resolved printer-related issues by clearing queues, restarting services, and verifying system functionality.
-
-Lab 09 - Password Reset and Account Lockout Support  
-- Performed password resets and account unlocks in Active Directory while verifying user access and authentication issues.
-
-Lab 08 - DNS and Network Connectivity Troubleshooting  
-- Diagnosed and resolved DNS and connectivity issues using tools like ping, nslookup, and ipconfig to restore network access.
-
-Lab 07 - Remote IT Support Simulation  
-- Simulated remote support scenarios by troubleshooting user issues, guiding resolutions, and documenting steps as if assisting end users.
-
-Lab 06 - Active Directory User and Group Management  
-- Managed domain users and groups, applying access control and organizational unit structure in a Windows Server environment.
-
-Lab 05 - Network Drive Mapping and File Sharing  
-- Configured shared folders, assigned permissions, and mapped network drives to enable secure file access between systems.
-
-Lab 04 - Active Directory Access Control  
-- Created and managed users, groups, and permissions to control access to shared resources in an enterprise environment.
-
-Lab 03 - Network Troubleshooting  
-- Diagnosed and resolved network connectivity issues in a virtual environment by restoring DHCP configuration and verifying communication between systems.
-
-Lab 02 - Linux System Operations and File Permission Management  
-- Performed Linux command line operations, directory management, and file permission configuration using chmod and sudo.
-
-Lab 01 - Network Reconnaissance  
-- Used Nmap on Kali Linux to scan a Windows system, identify open ports, and enumerate services in a controlled lab environment.
+| Lab | Project | Skills Demonstrated |
+|---:|---|---|
+| 01 | [Network Reconnaissance and Service Enumeration](./Lab-01-Network-Reconnaissance/) | Nmap, host discovery, port scanning, service enumeration, network validation |
+| 02 | [Linux System Operations and File Permission Management](./Lab-02-Linux-System-Operations-and-File-Permission-Management/) | Linux CLI, directory management, `sudo`, `chmod`, file permissions |
+| 03 | [Windows Network Troubleshooting](./Lab-03-Network-Troubleshooting/) | TCP/IP, DHCP renewal, gateway identification, `ping`, `ipconfig`, `netsh` |
+| 04 | [Active Directory Group-Based Access Control](./Lab-04-Active-Directory-Access-Control/) | Active Directory, security groups, NTFS permissions, share permissions, least privilege |
+| 05 | [Network Drive Mapping and File Sharing](./Lab-05-Network-Drive-Mapping-and-File-Sharing/) | SMB, UNC paths, shared folders, network drive mapping, access troubleshooting |
+| 06 | [Active Directory User and Group Management](./Lab-06-Active-Directory-User-and-Group-Management/) | User provisioning, security groups, group membership, access validation |
+| 07 | [Remote IT Support Simulation](./Lab-07-Remote-IT-Support-Simulation/) | RDP, AnyDesk, remote troubleshooting, network adapter recovery, user support |
+| 08 | [DNS and Network Connectivity Troubleshooting](./Lab-08-DNS-and-Network-Connectivity-Troubleshooting/) | DNS resolution, `nslookup`, `ping`, `tracert`, IP configuration analysis |
+| 09 | [Password Reset and Account Lockout Support](./Lab-09-Password-Reset-and-Account-Lockout-Support/) | ADUC, password resets, account unlocks, identity verification, login validation |
+| 10 | [Software Installation and Printer Troubleshooting](./Lab-10-Software-Installation-and-Printer-Troubleshooting/) | Software deployment, application validation, printer configuration, test printing |
+| 11 | [Windows Troubleshooting and Printer Support](./Lab-11-Windows-Troubleshooting-Ticket/) | Windows services, Print Spooler, print queues, structured ticket resolution |
+| 12 | [Network Traffic Analysis and Security Monitoring](./Lab-12-Network-Traffic-Analysis-and-Security-Monitoring-with-Nmap-Wireshark-and-Splunk/) | Nmap, Wireshark, Splunk, packet capture, protocol filtering, log analysis |
+| 13 | [Help Desk Ticket Workflow Simulation](./Lab-13-Help-Desk-Ticket-Workflow-Simulation/) | Ticket prioritization, troubleshooting, documentation, escalation, resolution verification |
+| 14 | [Active Directory Password Reset and Ticket Resolution](./Lab-14-Active-Directory-Password-Reset-and-Ticket-Resolution/) | Active Directory support, password management, ticket documentation, issue closure |
+| 15 | [Help Desk Ticketing and Cybersecurity Operations Web Application](./Lab-15-Help-Desk-Ticketing-and-Cybersecurity-Operations-Web-Application/) | ITSM workflows, ticket management, user and asset relationships, security-alert simulation — [view the full LabDesk project](https://github.com/johninfra/labdesk-itsm-homelab) |
+| 16 | [Windows Host Port Scanning with Metasploit](./Lab-16-Windows-Host-Port-Scanning-With-Metasploit/) | Metasploit, TCP port scanning, host discovery, service identification, exposure assessment |
+| 17 | [SMB Fingerprinting and Security Enumeration](./Lab-17-SMB-Fingerprinting-and-Security-Enumeration/) | SMB enumeration, protocol identification, host fingerprinting, security configuration analysis |
+| 18 | [Splunk SIEM Security Monitoring and Alerting Platform](./Lab-18-Splunk-SIEM-Security-Monitoring-and-Alerting-Platform/) | Splunk deployment, log ingestion, SPL, dashboards, real-time alerts, reconnaissance detection |
+| 19 | [Splunk SOC Security Monitoring Dashboard](./Lab-19-Splunk-SOC-Security-Monitoring-Dashboard/) | Windows Security Logs, Sysmon, authentication monitoring, process analysis, threat detection |
+| 20 | [Configuring and Troubleshooting RDP on Windows Server 2022](./Lab-20-Configuring-and-Troubleshooting-Remote-Desktop-Protocol-on-Windows-Server-2022/) | Windows Server, RDP, TCP/UDP 3389, firewall rules, remote-access troubleshooting |
+| 21 | [PowerShell Windows Health Check Automation](./Lab-21-PowerShell-Windows-Health-Check-Automation/) | PowerShell, CIM/WMI, CPU and memory monitoring, disk analysis, system reporting |
+| 22 | [PowerShell Vulnerability Management and Security Audit Framework](./Lab-22-PowerShell-Vulnerability-Management-and-Security-Audit-Framework/) | Endpoint inventory, security-control assessment, service analysis, risk reporting |
+| 23 | [Microsoft Entra ID Fundamentals](./Lab-23-Microsoft-EntraID-Fundamentals/) | Entra tenant deployment, cloud user provisioning, security groups, identity administration |
+| 24 | [PowerShell Security Awareness and Endpoint Posture Dashboard](./Lab-24-PowerShell-Security-Awareness-Dashboard/) | PowerShell automation, Defender, Windows Event Logs, WMI/CIM, security auditing, HTML reporting |
 
 ---
 
