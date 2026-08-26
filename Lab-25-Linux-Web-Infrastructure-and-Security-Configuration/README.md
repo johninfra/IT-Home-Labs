@@ -44,7 +44,7 @@ When first opening the website using `https://192.168.163.128`, the browser show
 ![Web Server HTTPS Configuration](./screenshots/linux-server-ssh-web-server-https.png)
 
 ### 5. Final Lab State and Session Termination
-![Final Lab State and Session Termination](./screenshots/linux-server-ssh-and-web-server-setup.png)
+![Final Lab State and Session Termination](./screenshots/linux-server-ssh-session-termination.png)
 
 ## Automation Script
 To run this whole process automatically in the future, create a file named `deploy-secure-webserver.sh` and run it:
