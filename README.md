@@ -119,4 +119,4 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 
 ## Career Objective  
 
-IT Support and IAM professional with experience supporting Windows endpoints and administering user access across Active Directory and Microsoft Entra ID. Progressed from help-desk permissions to delegated administrative responsibilities involving identity lifecycles, security groups, MFA, access reviews, and credential administration. Skilled in Windows troubleshooting, Event Viewer, PowerShell, Microsoft 365, and security-focused technical support.
+IT Support and IAM professional with hands-on experience supporting Windows environments, administering user access, and strengthening identity security across Active Directory and Microsoft Entra ID. Progressed from help desk support into delegated administrative responsibilities spanning identity lifecycle management, security groups, MFA, access reviews, and credential administration. Skilled in Windows troubleshooting, Event Viewer, PowerShell, Microsoft 365, and security-focused technical support, with a growing focus on systems administration, cloud, and cybersecurity.
