@@ -112,12 +112,11 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 - Wireshark  
 - Nmap  
 - Splunk  
-- Kali Linux  
+- Kali Linux
+- Ubuntu Linux
 
 ---
 
 ## Career Objective  
 
-IT support and help desk professional with hands-on experience troubleshooting hardware, software, network, and user access issues across Windows and macOS environments. Skilled in Active Directory user management, system configuration, connectivity troubleshooting, and supporting enterprise and virtual lab infrastructures.
-
-Experienced in documenting technical solutions, simulating real-world ticket workflows, and providing user-focused support in fast-paced and security-conscious environments. Proficient with Windows 10/11, macOS, Microsoft 365, networking fundamentals, VMware, and basic cybersecurity tools including Wireshark, Nmap, and Splunk.
+IT Support and IAM professional with experience supporting Windows endpoints and administering user access across Active Directory and Microsoft Entra ID. Progressed from help-desk permissions to delegated administrative responsibilities involving identity lifecycles, security groups, MFA, access reviews, and credential administration. Skilled in Windows troubleshooting, Event Viewer, PowerShell, Microsoft 365, and security-focused technical support.
