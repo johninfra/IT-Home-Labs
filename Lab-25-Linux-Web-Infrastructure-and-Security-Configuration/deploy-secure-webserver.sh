@@ -5,7 +5,7 @@ set -e
 sudo apt update && sudo apt install nginx -y
 
 # Customize page text
-echo "<h1>Hello World! Welcome to John's Server</h1>" | sudo tee /var/www/html/index.nginx-debian.html > /dev/null
+echo "<h1>Hello World! Welcome to this server</h1>" | sudo tee /var/www/html/index.nginx-debian.html > /dev/null
 
 # Generate certificate silently
 sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 \
