@@ -24,7 +24,7 @@ This lab demonstrates practical experience with:
 
 **Duration:** 4 minutes 37 seconds
 
-▶️ [Watch the full Microsoft Entra ID PowerShell lab](./Microsoft-Entra-ID-Administration-with-PowerShell-and-Microsoft-Graph.mp4)
+▶️ [Watch the full Microsoft Entra ID PowerShell lab](https://youtu.be/ygk_6OC40ZE)
 
 > The video demonstrates the complete workflow from Microsoft Entra ID tenant verification through Microsoft Graph authentication, directory enumeration, privileged role verification, and session termination.
 
@@ -451,6 +451,8 @@ The lab demonstrates practical familiarity with Microsoft cloud identity adminis
 
 ## Video
 
-▶️ **[Microsoft Entra ID Administration with PowerShell and Microsoft Graph — Full Lab Video](./Microsoft-Entra-ID-Administration-with-PowerShell-and-Microsoft-Graph.mp4)**
+▶️ **[Microsoft Entra ID Administration with PowerShell and Microsoft Graph — Full Lab Video](https://youtu.be/ygk_6OC40ZE)**
+
+**Duration:** 4:37
 
 **Duration:** 4:37
