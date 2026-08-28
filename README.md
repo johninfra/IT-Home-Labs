@@ -2,9 +2,9 @@
 
 ## About This Repository
 
-This repository contains **25 enterprise-focused IT infrastructure, systems administration, Identity & Access Management (IAM), and cybersecurity labs** designed to simulate real-world enterprise environments.
+This repository contains **26 enterprise-focused IT infrastructure, systems administration, Identity & Access Management (IAM), and cybersecurity labs** designed to simulate real-world enterprise environments.
 
-Using Windows Server, Microsoft Entra ID, Active Directory, VMware, Splunk Enterprise, PowerShell, and industry-standard administrative tools, these projects demonstrate practical experience deploying, configuring, securing, monitoring, and troubleshooting enterprise IT environments.
+Using Windows Server, Microsoft Entra ID, Active Directory, VMware, Splunk Enterprise, PowerShell, Microsoft Graph, and industry-standard administrative tools, these projects demonstrate practical experience deploying, configuring, securing, monitoring, and troubleshooting enterprise IT environments.
 
 Each lab includes detailed documentation, screenshots, implementation steps, and enterprise-focused explanations that mirror real operational workflows.
 
@@ -98,6 +98,7 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 | 23 | [Microsoft Entra ID Fundamentals](./Lab-23-Microsoft-EntraID-Fundamentals/) | Entra tenant deployment, cloud user provisioning, security groups, identity administration |
 | 24 | [PowerShell Security Awareness and Endpoint Posture Dashboard](./Lab-24-PowerShell-Security-Awareness-Dashboard/) | PowerShell automation, Defender, Windows Event Logs, WMI/CIM, security auditing, HTML reporting |
 | 25 | [Lab-25-Linux-Web-Infrastructure-and-Security-Configuration](./Lab-25-Linux-Web-Infrastructure-and-Security-Configuration/) | Linux Server Administration, SSH, Nginx Web Server Deployment, and SSL/TLS Configuration |
+| 26 | [Microsoft Entra ID Administration with PowerShell and Microsoft Graph](./Lab-26-Microsoft-EntraID-Administration-with-PowerShell-and-Microsoft-Graph/) | Microsoft Graph PowerShell, delegated OAuth scopes, Entra user/group enumeration, RBAC, privileged role verification, secure session management |
 
 ---
 
@@ -105,6 +106,7 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 
 - Windows 10 and Windows 11
 - Microsoft Entra ID
+- Microsoft Graph PowerShell SDK
 - Windows Server 2022  
 - Active Directory Domain Controller
 - VMware Workstation  
