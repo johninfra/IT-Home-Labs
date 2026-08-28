@@ -454,5 +454,3 @@ The lab demonstrates practical familiarity with Microsoft cloud identity adminis
 ▶️ **[Microsoft Entra ID Administration with PowerShell and Microsoft Graph — Full Lab Video](https://youtu.be/ygk_6OC40ZE)**
 
 **Duration:** 4:37
-
-**Duration:** 4:37
