@@ -119,6 +119,6 @@ Each lab includes detailed documentation, screenshots, implementation steps, and
 
 ---
 
-## Career Objective  
+## Professional Summary 
 
 CompTIA Security+–certified IT support and IAM professional with hands-on experience supporting Windows environments and administering user access across Active Directory and Microsoft Entra ID. Progressed from help desk support to delegated administrative responsibilities involving identity lifecycle management, security groups, password and MFA support, access reviews, and credential administration. Skilled in Windows and Microsoft 365 troubleshooting, VPN and network connectivity, Event Viewer, PowerShell, and security-focused technical support. Prepared to contribute in Tier 2 IT support, IAM, Microsoft 365 administration, or junior systems administration roles.
